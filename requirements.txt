@@ -1,0 +1,8 @@
+numpy==1.16.6
+scikit-learn==0.20.4
+scipy==1.2.2
+Pillow==6.1
+mmh3
+nltk
+wget
+torchvision
